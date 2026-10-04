@@ -1,0 +1,20 @@
+{
+    "MALIK_DETAILS": {
+        "name": "Jishan Khan",
+        "birthday": "13/12/2004",
+        "district": "Khargone",
+        "tehsil": "Barwaha",
+        "village": "Dhakalgaon",
+        "pincode": "451111",
+        "instagram": "_jishankhan11"
+    },
+    "HARDWARE_LOCK": {
+        "device_model": "Realme 11x",
+        "exclusive_mode": "ENABLED"
+    },
+    "SYSTEM_PRIVILEGES": {
+        "root_access": "ENABLED",
+        "live_terminal": "xterm",
+        "telephony_bypass": "ENABLED"
+    }
+}
